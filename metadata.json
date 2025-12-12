@@ -1,0 +1,5 @@
+{
+  "name": "EmotiView",
+  "description": "A professional sentiment analysis dashboard featuring batch processing, explainability (keyword highlighting), and data visualization using the Gemini API.",
+  "requestFramePermissions": []
+}
